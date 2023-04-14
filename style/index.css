@@ -48,3 +48,25 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+header {
+    background-color: lightgray;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+footer{
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+}
+
+.top-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.description{
+    padding: 20px;
+}
